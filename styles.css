@@ -1,0 +1,11 @@
+h2{
+    color: white;
+    text-align: center;
+}
+body{
+    background-color: pink;
+
+}
+.hero{
+    background-image: url('nasy.jpg');
+}
